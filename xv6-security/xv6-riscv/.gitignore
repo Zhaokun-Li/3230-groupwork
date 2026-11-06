@@ -1,0 +1,10 @@
+*~
+*.o
+*.d
+*.asm
+*.sym
+*.img
+kernel/kernel
+user/usys.S
+.gdbinit
+TAGS
